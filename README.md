@@ -1,1 +1,1 @@
-# P2P-blockchain-in-java
+NoobChain is a simple blockchain implementation written in Java. It demonstrates the core concepts of blockchain technology, including decentralized consensus, mining, and peer-to-peer communication. The project consists of a basic blockchain network where nodes can create and validate transactions, mine new blocks, and synchronize the blockchain across multiple peers.
